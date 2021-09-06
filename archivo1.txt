@@ -1,4 +1,6 @@
 este es el archivo 1.
 editado desde github
+Linea 3 github
+linea 4 github
 linea 3 local
 lenea 4 local
